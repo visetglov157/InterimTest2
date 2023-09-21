@@ -73,7 +73,7 @@ public class ToyShopProgram {
         ToyShop toyShop = new ToyShop();
 
         // Создаем несколько игрушек и добавляем их в магазин
-        toyShop.addToy(new Toy("Мяч", 800));
+        toyShop.addToy(new Toy("Машинка", 500));
         toyShop.addToy(new Toy("Кукла", 130));
         toyShop.addToy(new Toy("Конструктор", 420));
 
